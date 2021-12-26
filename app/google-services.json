@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352527337611",
+    "firebase_url": "https://heliumproject-e05a4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "heliumproject-e05a4",
+    "storage_bucket": "heliumproject-e05a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352527337611:android:72f7ba5091b107bd1dac8e",
+        "android_client_info": {
+          "package_name": "com.example.heliumproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352527337611-k2of806sqvrqrmtv3rq01jgjv0ubrf8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwj5lspolnYMXF2-OT5FtEVuc__RBi0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352527337611-k2of806sqvrqrmtv3rq01jgjv0ubrf8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
